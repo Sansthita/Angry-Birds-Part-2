@@ -1,2 +1,2 @@
-# Angry-Birds-Part-2
-Adding Image
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
